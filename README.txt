@@ -6,3 +6,4 @@ Day01
     3. OCAndCCompare2                                   ===> OC与C的对比2
     4. ObjectAndProcess                                 ===> 面向过程与面向过程
     5. ClassAndObject                                   ===> 类与对象
+    6. ClassAndObject                                   ===> 类与对象2
