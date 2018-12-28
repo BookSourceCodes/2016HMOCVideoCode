@@ -8,3 +8,5 @@ Day01
     5. ClassAndObject                                   ===> 类与对象
     6. ClassAndObject2                                  ===> 类与对象2
     7. Method                                           ===> 方法的声明实现和调用
+    8. ClassNote                                        ===> 类使用注意事项
+    
