@@ -10,3 +10,6 @@ Day01
     7. Method                                           ===> 方法的声明实现和调用
     8. ClassNote                                        ===> 类使用注意事项
     9. CSupplement                                      ===> C程序的补充
+
+Day02
+    1. ObjectStorageMethod                              ===> 对象在内存中的存储
