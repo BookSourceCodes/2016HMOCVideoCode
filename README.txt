@@ -13,3 +13,4 @@ Day01
 
 Day02
     1. ObjectStorageMethod                              ===> 对象在内存中的存储
+    2. NULLAndnil                                       ===> nil与NULL
