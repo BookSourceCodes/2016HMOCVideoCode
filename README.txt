@@ -16,3 +16,4 @@ Day02
     2. NULLAndnil                                       ===> nil与NULL
     3. ObjectMorePoint                                  ===> 多个指针指向同一个对象
     4. PragmaMark                                       ===> 分组导航标记
+    5. MethodAndFounction                               ===> 方法与函数
