@@ -23,3 +23,7 @@ Day02
     09. GodAndPerson                                    ===> 上帝和人的故事
     10. ObjectAsProperty                                ===> 对象作为类的属性
     11. Mora                                            ===> 猜拳游戏
+
+Day03
+    01. ExceptionHandling                               ===> 异常处理
+    
