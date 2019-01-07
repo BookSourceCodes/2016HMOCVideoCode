@@ -19,4 +19,5 @@ Day02
     5. MethodAndFounction                               ===> 方法与函数
     6. CommonMistakes                                   ===> 都是你的错
     7. MoreFileDevelopment                              ===> 多文件开发
+    8. ObjectAndFounction                               ===> 对象与方法
     
