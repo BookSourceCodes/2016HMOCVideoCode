@@ -20,4 +20,6 @@ Day02
     6. CommonMistakes                                   ===> 都是你的错
     7. MoreFileDevelopment                              ===> 多文件开发
     8. ObjectAndFounction                               ===> 对象与方法
-    9. GodAndPerson                                     ===>上帝和人的故事
+    9. GodAndPerson                                     ===> 上帝和人的故事
+    10. ObjectAsProperty                                ===> 对象作为类的属性
+    
