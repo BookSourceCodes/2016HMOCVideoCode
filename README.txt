@@ -29,3 +29,4 @@ Day03
     02. ClassFounction                                  ===> 类方法
     03. NSString                                        ===> NSString的使用
     04. AnonymousObject                                 ===> 匿名对象
+    05. PropertyEncapsulation                           ===> 属性封装
