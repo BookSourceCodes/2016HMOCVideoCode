@@ -32,3 +32,4 @@ Day03
     05. PropertyEncapsulation                           ===> 属性封装
     06. ObjectRelationship                              ===> 对象之间的关系
     07. CombinationRelationship                         ===> 组合关系
+    08. Dependency                                      ===> 依赖关系
