@@ -30,3 +30,4 @@ Day03
     03. NSString                                        ===> NSString的使用
     04. AnonymousObject                                 ===> 匿名对象
     05. PropertyEncapsulation                           ===> 属性封装
+    06. ObjectRelationship                              ===> 对象之间的关系
