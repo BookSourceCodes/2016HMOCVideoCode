@@ -35,3 +35,6 @@ Day03
     08. Dependency                                      ===> 依赖关系
     09. ConnectionRelation                              ===> 关联关系
     10. SoldierAssault                                  ===> 士兵突击
+
+Day04
+    01.Static                                           ===> static关键字
