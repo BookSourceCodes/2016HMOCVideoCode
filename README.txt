@@ -42,3 +42,4 @@ Day04
     03. Inherit                                         ===> 继承
     04. Inherit2                                        ===> 继承2
     05. Inherit3                                        ===> 继承3
+    06. Inherit4                                        ===> 继承4
