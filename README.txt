@@ -37,4 +37,5 @@ Day03
     10. SoldierAssault                                  ===> 士兵突击
 
 Day04
-    01.Static                                           ===> static关键字
+    01. Static                                          ===> static关键字
+    02. Self                                            ===> Self关键字
