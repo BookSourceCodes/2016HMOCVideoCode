@@ -40,3 +40,5 @@ Day04
     01. Static                                          ===> static关键字
     02. Self                                            ===> Self关键字
     03. Inherit                                         ===> 继承
+    04. Inherit2                                        ===> 继承2
+    05. Inherit3                                        ===> 继承3
