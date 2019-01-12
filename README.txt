@@ -43,3 +43,4 @@ Day04
     04. Inherit2                                        ===> 继承2
     05. Inherit3                                        ===> 继承3
     06. Inherit4                                        ===> 继承4
+    07. Inheritance                                     ===> 继承的特点
