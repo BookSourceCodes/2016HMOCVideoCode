@@ -48,4 +48,5 @@ Day04
     09. AccessModifier                                  ===> 访问修饰符
     10. PrivatePropertiesAndMethods                     ===> 私有属性和私有方法
     11. PrincipleOfReplacement                          ===> 里氏替换原则
+    12. MethodRewriting                                 ===> 方法重写
     
