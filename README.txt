@@ -60,6 +60,8 @@ Day05
     05. SEL                                             ===> SEL对象
     06. PointGrammar                                    ===> 点语法
     07. Property                                        ===> @property
+    08. Synthesize                                      ===> @synthesize
     
+
 
 
