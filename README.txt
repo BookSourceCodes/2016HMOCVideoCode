@@ -59,5 +59,7 @@ Day05
     04. ClassNature                                     ===> 类的本质
     05. SEL                                             ===> SEL对象
     06. PointGrammar                                    ===> 点语法
+    07. Property                                        ===> @property
+    
 
 
