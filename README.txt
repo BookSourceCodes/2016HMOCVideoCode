@@ -62,7 +62,7 @@ Day05
     07. Property                                        ===> @property
     08. Synthesize                                      ===> @synthesize
     09. PropertyEnhance                                 ===> @property增强
-    
+    10. DynamicAndStaticTypes                           ===> 动态类型和静态类型
 
 
 
