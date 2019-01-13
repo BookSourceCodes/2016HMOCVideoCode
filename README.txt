@@ -49,4 +49,4 @@ Day04
     10. PrivatePropertiesAndMethods                     ===> 私有属性和私有方法
     11. PrincipleOfReplacement                          ===> 里氏替换原则
     12. MethodRewriting                                 ===> 方法重写
-    
+    13. killingGame                                     ===> 杀人游戏
