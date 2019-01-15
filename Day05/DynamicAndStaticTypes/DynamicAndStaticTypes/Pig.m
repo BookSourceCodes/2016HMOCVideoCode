@@ -10,4 +10,8 @@
 
 @implementation Pig
 
+- (void)eat {
+    NSLog(@"最后的晚餐");
+}
+
 @end

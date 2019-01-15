@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		600F8F2821EB0641000D1697 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 600F8F2721EB0641000D1697 /* main.m */; };
+		600F8F3021EB06A4000D1697 /* Animal.m in Sources */ = {isa = PBXBuildFile; fileRef = 600F8F2F21EB06A4000D1697 /* Animal.m */; };
+		600F8F3321EB06E2000D1697 /* Pig.m in Sources */ = {isa = PBXBuildFile; fileRef = 600F8F3221EB06E2000D1697 /* Pig.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,10 @@
 /* Begin PBXFileReference section */
 		600F8F2421EB0641000D1697 /* DynamicAndStaticTypes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DynamicAndStaticTypes; sourceTree = BUILT_PRODUCTS_DIR; };
 		600F8F2721EB0641000D1697 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		600F8F2E21EB06A4000D1697 /* Animal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Animal.h; sourceTree = "<group>"; };
+		600F8F2F21EB06A4000D1697 /* Animal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Animal.m; sourceTree = "<group>"; };
+		600F8F3121EB06E2000D1697 /* Pig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pig.h; sourceTree = "<group>"; };
+		600F8F3221EB06E2000D1697 /* Pig.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pig.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,10 @@
 			isa = PBXGroup;
 			children = (
 				600F8F2721EB0641000D1697 /* main.m */,
+				600F8F2E21EB06A4000D1697 /* Animal.h */,
+				600F8F2F21EB06A4000D1697 /* Animal.m */,
+				600F8F3121EB06E2000D1697 /* Pig.h */,
+				600F8F3221EB06E2000D1697 /* Pig.m */,
 			);
 			path = DynamicAndStaticTypes;
 			sourceTree = "<group>";
@@ -118,7 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				600F8F3321EB06E2000D1697 /* Pig.m in Sources */,
 				600F8F2821EB0641000D1697 /* main.m in Sources */,
+				600F8F3021EB06A4000D1697 /* Animal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

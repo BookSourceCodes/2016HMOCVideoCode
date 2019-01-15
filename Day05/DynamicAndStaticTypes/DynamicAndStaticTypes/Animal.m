@@ -10,4 +10,8 @@
 
 @implementation Animal
 
+- (void)run {
+    NSLog(@"我是Animal的run方法");
+}
+
 @end

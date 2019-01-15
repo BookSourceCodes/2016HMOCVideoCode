@@ -12,6 +12,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Animal : NSObject
 
+@property NSString *name;
+
+- (void)run;
+
 @end
 
 NS_ASSUME_NONNULL_END
