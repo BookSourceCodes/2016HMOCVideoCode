@@ -72,5 +72,5 @@ Day06
     02. MRCProgram                                      ===> 第一个MRC程序
     03. MemoryManagementPrinciple                       ===> 内存管理的原则
     04. WildPointerAndZombieObject                      ===> 野指针和僵尸对象
-
+    05. SingleObject                                    ===> 单个对象的内存管理
 
