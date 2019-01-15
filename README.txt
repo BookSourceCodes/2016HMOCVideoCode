@@ -65,7 +65,8 @@ Day05
     10. DynamicAndStaticTypes                           ===> 动态类型和静态类型
     11. IdType                                          ===> id类型
     12. DynamicTypeDetection                            ===> 动态类型检测
-    
+    13. ConstructionMethod                              ===> 构造方法
+
 
 
 
