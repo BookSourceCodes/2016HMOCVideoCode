@@ -11,6 +11,14 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface Person : NSObject
+{
+    NSString *_name;
+}
+
+@property NSString *name;
+@property int age;
+
+- (instancetype)initWithName:(NSString *)name andAge:(int)age;
 
 @end
 
