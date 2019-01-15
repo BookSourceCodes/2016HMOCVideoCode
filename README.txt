@@ -69,6 +69,7 @@ Day05
 
 Day06
     01. MemoryManagementOverview                        ===> 内存管理概述
-    
+    02. MRCProgram                                      ===> 第一个MRC程序
+
 
 
