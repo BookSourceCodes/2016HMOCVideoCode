@@ -81,5 +81,5 @@ Day06
 
 Day07
     01. Revise                                          ===> 复习
-    
+    02. AutoReleasePool                                 ===> 自动释放池
 
