@@ -95,4 +95,6 @@ Day07
     13. UseCategory                                     ===> 分类的应用
     14. InformalAgreement                               ===> 非正式协议
     15. Supplement                                      ===> 补充
-    
+
+Day08
+    01. Revise                                          ===> 复习
