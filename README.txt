@@ -93,4 +93,5 @@ Day07
     11. Category                                        ===> 分类
     12. Category2                                       ===> 分类2
     13. UseCategory                                     ===> 分类的应用
+    14. InformalAgreement                               ===> 非正式协议
     
