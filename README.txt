@@ -85,5 +85,6 @@ Day07
     03. WeiBo                                           ===> 微博练习
     04. ARCMechanism                                    ===> ARC机制概述
     05. ARCProgram                                      ===> 第一个ARC程序
+    06. ARCMemoryManageement                            ===> ARC机制下的多个对象的内存管理
     
 
