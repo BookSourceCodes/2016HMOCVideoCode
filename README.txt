@@ -98,3 +98,5 @@ Day07
 
 Day08
     01. Revise                                          ===> 复习
+    02. Extension                                       ===> 延展
+
