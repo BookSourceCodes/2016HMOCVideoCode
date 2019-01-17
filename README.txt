@@ -114,5 +114,6 @@ Day09
     02. NSString                                        ===> NSString
     03. NSStringProperty                                ===> NSString的常用成员
     04. NSStringMethod                                  ===> NSString的常用方法
+    05. NSStringProperty2                               ===> 字符串的常用成员
     
 
