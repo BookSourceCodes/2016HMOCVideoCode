@@ -119,4 +119,7 @@ Day09
     07. NSArray                                         ===> NSArray
     08. NSMutableArray                                  ===> NSMutableArray
     09. NSNumber                                        ===> NSNumber
+
+Day10
+    01. Revise                                          ===> 复习
     
