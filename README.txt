@@ -125,4 +125,5 @@ Day10
     02. NSDictionary                                    ===> NSDictionary
     03. CollectionMemoryManagement                      ===> 集合的内存管理
     04. NSFileManager                                   ===> NSFileManager
+    05. FileTerminator                                  ===> 文件终结者
     
