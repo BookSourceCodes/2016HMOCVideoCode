@@ -126,4 +126,5 @@ Day10
     03. CollectionMemoryManagement                      ===> 集合的内存管理
     04. NSFileManager                                   ===> NSFileManager
     05. FileTerminator                                  ===> 文件终结者
+    06. CommonStructure                                 ===> 常用结构体
     
