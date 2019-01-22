@@ -122,4 +122,5 @@ Day09
 
 Day10
     01. Revise                                          ===> 复习
+    02. NSDictionary                                    ===> NSDictionary
     
